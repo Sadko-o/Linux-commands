@@ -16,6 +16,7 @@ my_tar will not handle file inside subdirectory.
 ## How to run
 ```
 make
+
 ./my_tar -cf file.tar source.c source.h
 ```
 
