@@ -1,4 +1,4 @@
-# My-Printf
+# My Printf
 
 ## Description
 
