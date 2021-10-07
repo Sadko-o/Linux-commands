@@ -1,4 +1,4 @@
-## Description
+# Description
 A program called **my_cat** which does the same thing as the system's cat command-line.
 
 ### How to run
